@@ -159,3 +159,25 @@ Please 0 for *No*
 # Are Random Forest Feature Importances Useful?
 
 ### **Sometimes** 🤔
+
+---
+
+# Does SHAP values do better for random uniform features?
+
+{{% grid middle center %}}
+
+{{< g 1 success>}}
+Please Y for *Yes*
+{{< /g >}}
+
+{{< g 1 alert>}}
+Please N for *No*
+{{< /g >}}
+
+{{% /grid %}}
+
+---
+
+## Nope
+
+{{< figure src="images/shap_uniform_random.png" height="640px" >}}
