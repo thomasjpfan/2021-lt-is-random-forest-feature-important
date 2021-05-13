@@ -17,7 +17,7 @@ Thomas J. Fan
 
 ## Load A Sample Dataset
 
-```python
+```python{1,4-5|2,7}
 from sklearn.datasets import load_diabetes
 from sklearn.model_selection import train_test_split
 
@@ -168,4 +168,4 @@ Please 0 for *No*
 
 # Are Random Forest Feature Importances Useful?
 
-### **Sometimes** 🤔
+## **Sometimes** 🤔
