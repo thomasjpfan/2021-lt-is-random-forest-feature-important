@@ -88,8 +88,6 @@ li {
   -ms-flex: 0 0 auto;
   -webkit-box-flex: 0;
   flex: 0 0 auto;
-  padding-right: 0.5rem;
-  padding-left: 0.5rem;
 }
 
 .g-1 {
@@ -250,7 +248,9 @@ li {
     border-radius: 5px;
     width: 95%;
     display: block;
-    padding: 1em;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    margin-right: 0.5rem;
 }
 
 .g-alert {
@@ -260,7 +260,9 @@ li {
     border-radius: 5px;
     width: 95%;
     display: block;
-    padding: 1em;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    margin-left: 0.5rem;
 }
 
 span.hljs-comment {
