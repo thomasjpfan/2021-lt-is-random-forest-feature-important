@@ -1,6 +1,6 @@
 theme = "reveal-hugo"
 disableKinds = ["taxonomy", "term", "sitemap", "RSS"]
-baseURL = "https://thomasjpfan.github.io/2021-lt-is-random-forest-feature-important/"
+baseURL = "https://thomasjpfan.github.io/lt-2021-is-random-forest-feature-important"
 
 [params]
 useMath = true
